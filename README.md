@@ -15,5 +15,6 @@ Configurando o Phishing no Kali Linux para captura de senhas do Facebook
 - Obtendo o endereço da máquina: (IP)
 - URL para clone: http://www.facebook.com
 
-  
+3. Resultado
+   
 
